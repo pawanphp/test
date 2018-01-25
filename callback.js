@@ -26,3 +26,8 @@ function name()
     console.log("pawan");
 }
 name();
+function name1()
+{
+    console.log("pawan");
+}
+name1();
