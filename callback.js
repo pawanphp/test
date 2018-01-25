@@ -21,3 +21,8 @@ fs.appendFile('pawan.txt', 'Simply Easy Learning!',  function(err) {
       console.log("Asynchronous read: " + data.toString());
    });
 });
+function name()
+{
+    console.log("pawan");
+}
+name();
