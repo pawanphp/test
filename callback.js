@@ -46,3 +46,10 @@ function name4()
     console.log("pawan");
 }
 name4();
+
+
+function name5()
+{
+    console.log("pawan");
+}
+name5();
