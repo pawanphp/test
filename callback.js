@@ -59,9 +59,11 @@ function name6()
 }
 name6();
 raja babu test
+pawan kumar
 function name7()
 {
-    console.log("pawan");
+    console.log("pawsan");
 }
 name7();
+
 
