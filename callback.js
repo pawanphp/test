@@ -31,3 +31,18 @@ function name1()
     console.log("pawan");
 }
 name1();
+function name2()
+{
+    console.log("pawan");
+}
+name2();
+function name3()
+{
+    console.log("pawan");
+}
+name3();
+function name4()
+{
+    console.log("pawan");
+}
+name4();
