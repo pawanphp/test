@@ -53,3 +53,8 @@ function name5()
     console.log("pawan");
 }
 name5();
+function name6()
+{
+    console.log("pawan");
+}
+name6();
