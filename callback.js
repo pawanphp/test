@@ -53,12 +53,9 @@ function name5()
     console.log("pawan");
 }
 name5();
-<<<<<<< HEAD
 function name6()
 {
     console.log("pawan");
 }
 name6();
-=======
 raja babu test
->>>>>>> 2d27db3bb56bbf6ba00695a26bb208c0a9e131f0
